@@ -329,8 +329,8 @@ importers:
         version: 0.3.3
     devDependencies:
       '@cloudflare/workers-types':
-        specifier: 4.20231016.0
-        version: 4.20231016.0
+        specifier: 4.20231218.0
+        version: 4.20231218.0
       '@types/react':
         specifier: 18.2.31
         version: 18.2.31
@@ -2297,8 +2297,8 @@ packages:
     dev: true
     optional: true
 
-  /@cloudflare/workers-types@4.20231016.0:
-    resolution: {integrity: sha512-eGB0cRVyoJpeyGJx2re5sbd9R316a61sY73xwnqm4cwGpb+OxCK2gc651RxGiN7H4w6LY1RpysUgeGLmj5B3+g==}
+  /@cloudflare/workers-types@4.20231218.0:
+    resolution: {integrity: sha512-Vs1FKjfUjXYGbCsXzkl+ITp0Iyb6QiW6+vTERTNThC+v96T0IvPVAioH4tT20rXwoxAfxh380mAaxYtTrJUNVg==}
     dev: true
 
   /@colors/colors@1.5.0:
@@ -4522,7 +4522,7 @@ packages:
     dependencies:
       '@storybook/client-logger': 7.0.0-beta.11
       '@storybook/core-events': 7.0.0-beta.11
-      '@storybook/csf': 0.1.1-next.0
+      '@storybook/csf': 0.1.2-next.0
       '@storybook/manager-api': 7.0.0-beta.11(react-dom@18.2.0)(react@18.2.0)
       '@storybook/preview-api': 7.0.0-beta.11
       '@storybook/router': 7.0.0-beta.11(react-dom@18.2.0)(react@18.2.0)
@@ -4712,7 +4712,7 @@ packages:
       '@storybook/client-logger': 7.0.0-beta.11
       '@storybook/components': 7.0.0-beta.11(react-dom@18.2.0)(react@18.2.0)
       '@storybook/core-events': 7.0.0-beta.11
-      '@storybook/csf': 0.1.1-next.0
+      '@storybook/csf': 0.1.2-next.0
       '@storybook/docs-tools': 7.0.0-beta.11
       '@storybook/manager-api': 7.0.0-beta.11(react-dom@18.2.0)(react@18.2.0)
       '@storybook/preview-api': 7.0.0-beta.11
@@ -4953,7 +4953,7 @@ packages:
     dependencies:
       '@babel/preset-env': 7.20.2(@babel/core@7.22.8)
       '@babel/types': 7.22.5
-      '@storybook/csf': 0.1.1-next.0
+      '@storybook/csf': 0.1.2-next.0
       '@storybook/csf-tools': 7.0.0-beta.11
       '@storybook/node-logger': 7.0.0-beta.11
       '@storybook/types': 7.0.0-beta.11
@@ -4976,7 +4976,7 @@ packages:
       react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0
     dependencies:
       '@storybook/client-logger': 7.0.0-beta.11
-      '@storybook/csf': 0.1.1-next.0
+      '@storybook/csf': 0.1.2-next.0
       '@storybook/theming': 7.0.0-beta.11(react-dom@18.2.0)(react@18.2.0)
       '@storybook/types': 7.0.0-beta.11
       memoizerific: 1.11.3
@@ -5082,7 +5082,7 @@ packages:
       '@storybook/builder-manager': 7.0.0-beta.11
       '@storybook/core-common': 7.0.0-beta.11
       '@storybook/core-events': 7.0.0-beta.11
-      '@storybook/csf': 0.1.1-next.0
+      '@storybook/csf': 0.1.2-next.0
       '@storybook/csf-tools': 7.0.0-beta.11
       '@storybook/docs-mdx': 0.1.1-next.0
       '@storybook/node-logger': 7.0.0-beta.11
@@ -5150,7 +5150,7 @@ packages:
     resolution: {integrity: sha512-My4JLpQwp6L1rbyLFbjnc5MK/YsIoJM89poYD4mzoVAhMNuxd3Hkiu/j10qIDftplaNycMH5igNyg+ew0stexA==}
     dependencies:
       '@babel/types': 7.22.5
-      '@storybook/csf': 0.1.1-next.0
+      '@storybook/csf': 0.1.2-next.0
       '@storybook/types': 7.0.0-beta.11
       fs-extra: 9.1.0
       ts-dedent: 2.2.0
@@ -5170,8 +5170,8 @@ packages:
       type-fest: 2.19.0
     dev: true
 
-  /@storybook/csf@0.1.1-next.0:
-    resolution: {integrity: sha512-2M8E4CZOVW77P9lrgZZc2rcwxhNKVVykpzbcAauc3bots7xvDJMG60EasMRB/Y+cfqnSu6aaSUEVmKHTKsVJ3A==}
+  /@storybook/csf@0.1.2-next.0:
+    resolution: {integrity: sha512-Kf9XPAnO9VBxxYWNiW3pc1t7lDZ178VFfTCVWOm9r6Fdzm94j3zUNT06WiOojblVVaKsJktk8cT9b27Fmcxs5Q==}
     dependencies:
       type-fest: 2.19.0
     dev: true
@@ -5206,7 +5206,7 @@ packages:
       '@storybook/channels': 7.0.0-beta.11
       '@storybook/client-logger': 7.0.0-beta.11
       '@storybook/core-events': 7.0.0-beta.11
-      '@storybook/csf': 0.1.1-next.0
+      '@storybook/csf': 0.1.2-next.0
       '@storybook/router': 7.0.0-beta.11(react-dom@18.2.0)(react@18.2.0)
       '@storybook/theming': 7.0.0-beta.11(react-dom@18.2.0)(react@18.2.0)
       '@storybook/types': 7.0.0-beta.11
@@ -5361,7 +5361,7 @@ packages:
       '@storybook/channels': 7.0.0-beta.11
       '@storybook/client-logger': 7.0.0-beta.11
       '@storybook/core-events': 7.0.0-beta.11
-      '@storybook/csf': 0.1.1-next.0
+      '@storybook/csf': 0.1.2-next.0
       '@storybook/types': 7.0.0-beta.11
       '@types/qs': 6.9.7
       dequal: 2.0.3
@@ -10756,6 +10756,7 @@ packages:
 
   /figgy-pudding@3.5.2:
     resolution: {integrity: sha512-0btnI/H8f2pavGMN8w40mlSKOfTK2SVJmBfBeVIj3kNw0swwgzyRq0d5TJVOwodFmtvpPeWPN/MCcfuWF0Ezbw==}
+    deprecated: This module is no longer supported.
     dev: false
 
   /file-entry-cache@6.0.1:
